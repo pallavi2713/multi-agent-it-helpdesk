@@ -72,7 +72,7 @@ adk_a2a_helpdesk/
 │   ├── agent.py
 │   └── database.py
 │
-├── knowledge_base_agent/
+├── knowledgebase_agent/
 │   ├── __init__.py
 │   ├── agent.py
 │   └── knowledge_base/
